@@ -1,0 +1,23 @@
+{
+  "name": "js-neuralnet",
+  "version": "1.0.0",
+  "description": "simple oop neural net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noahhorlacher/js-neuralnet.git"
+  },
+  "author": "Noah Horlacher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noahhorlacher/js-neuralnet/issues"
+  },
+  "homepage": "https://github.com/noahhorlacher/js-neuralnet#readme",
+  "dependencies": {
+    "mathjs": "^10.4.0"
+  }
+}
